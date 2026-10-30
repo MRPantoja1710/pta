@@ -12,3 +12,9 @@ You could use **any programming language**. But you must provide instructions in
 [ptaa]: <https://github.com/glaucogoncalves/pta/tree/master/pta-server/files>
 [ptac]: <https://github.com/glaucogoncalves/pta/tree/master/pta-client.py>
 [ptad]: <https://github.com/glaucogoncalves/pta/tree/master/pta.pdf>
+
+### Execution
+From the root directory of the repository, execute the following command:
+
+```
+python3 pta-server/pta-server.py
